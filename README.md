@@ -22,7 +22,7 @@ Testing teh webhook.....
     - After launching this Jenkins server, attach a tag as **Key=Application, value=jenkins**
 
 3) ###### Slack 
-    - **Join the slack channel https://join.slack.com/t/slack-wcl4742/shared_invite/zt-1kid01o3n-W47OUTHBd2ZZpSzGnow1Wg**
+    - **Join the slack channel https://join.slack.com/t/devopsfullyau-r0x2686/shared_invite/zt-29180vame-IBvagz7zcoCnHPnRq8GkzQ**
     - **Join into the channel "#team-devops"**
 
 ### Jenkins setup
